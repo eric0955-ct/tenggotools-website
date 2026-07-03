@@ -1,0 +1,29 @@
+[
+  {
+    "title": "廣告招租中",
+    "text": "底部橫幅版位開放合作，歡迎洽詢。",
+    "image": "https://tenggotools.com/ads/banner/l1_image_converter/banner_01.png",
+    "url": "https://tenggotools.com/advertise.html",
+    "start_date": "2026-01-01",
+    "end_date": "2099-12-31",
+    "enabled": true
+  },
+  {
+    "title": "工具內廣告合作",
+    "text": "支援圖片輪播與點擊連結，適合活動與服務宣傳。",
+    "image": "https://tenggotools.com/ads/banner/l1_image_converter/banner_02.png",
+    "url": "https://tenggotools.com/advertise.html",
+    "start_date": "2026-01-01",
+    "end_date": "2099-12-31",
+    "enabled": true
+  },
+  {
+    "title": "查看合作方式",
+    "text": "點擊查看廣告刊登規格與參考價格。",
+    "image": "https://tenggotools.com/ads/banner/l1_image_converter/banner_03.png",
+    "url": "https://tenggotools.com/advertise.html",
+    "start_date": "2026-01-01",
+    "end_date": "2099-12-31",
+    "enabled": true
+  }
+]
